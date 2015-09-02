@@ -10,3 +10,7 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 I can use diff command to check what changes I made to the repository. If these changes are large enough or I realize that I finished some feature, bug or I have fixed something, I will decide to make a commit.
 
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Situations like making some experimental changes or making new language support. One of the other situations could occur when more people want to contribute to one project and they all working separatedly each on something different. In this case the branches will help to keep the things organized.
+
