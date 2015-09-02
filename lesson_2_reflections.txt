@@ -6,3 +6,7 @@ How is the staging area different from the working directory and the repository?
 
 Staging area is a place which contains files, that have been added from working directory to git repository using git add. Especially, I would call it some kind of temporary git repository. It offers the control of the files that are not int the git repository yet and I want add them to it. I can choose what I do want or do not want to add and even commit.
 
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can use diff command to check what changes I made to the repository. If these changes are large enough or I realize that I finished some feature, bug or I have fixed something, I will decide to make a commit.
+
