@@ -18,3 +18,7 @@ How do the diagrams help you visualize the branch structure?
 
 For me, it helps a bit, but not much. I think I have good imagination for this without drawing it on a paper or what.
 
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merge will join the branches we specify into one, making a new commit to the branch in which we currently are. Diagram representation of the branches shows the timeline as the commits were made. Its ordered by timestamp.
+
