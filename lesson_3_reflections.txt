@@ -14,3 +14,7 @@ What is the benefit of having a copy of the last known state of the remote store
 
 Having a copy of recent state of remote can help us know, which changes were made to the master by others. Especially, this is one of the best ways to face merging conflicts as we can find the critical part of the content which caused the issue.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+I would collaborate using some other version controll tools or services like redmine.org or bitbucket. Even without these I would stay in contact with the team members using some social media or mail communication while facing issues. This way the collaboration would be hard because I would not have such control over the new versions, bugs or new features that other people would make. Using Git it is very easy to manage it.
+
