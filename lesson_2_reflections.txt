@@ -22,3 +22,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 Merge will join the branches we specify into one, making a new commit to the branch in which we currently are. Diagram representation of the branches shows the timeline as the commits were made. Its ordered by timestamp.
 
+What are the pros and cons of Gits automatic merging vs. always doing merges manually?
+
+One of the pros of Gits automatic merging is that it saves time for us as we dont have to check every merge manually, but on the other hand, if some conflicts occur, its necessary to check and fix those conflicts by yourself, as it may lead to some even bigger conflicts when more people are about to edit the same content in merging files.
+
