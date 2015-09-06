@@ -18,3 +18,7 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 
 I would collaborate using some other version controll tools or services like redmine.org or bitbucket. Even without these I would stay in contact with the team members using some social media or mail communication while facing issues. This way the collaboration would be hard because I would not have such control over the new versions, bugs or new features that other people would make. Using Git it is very easy to manage it.
 
+When would you want to make changes in separate branch rather than directly in master? What benefits does each approach have?
+
+Making changes in separate branch is very efficient way to collaborate with others as I can make something new, like a new feature or fix a bug and then I can test it if it really works before it would get to the main master branch. This way I do not have to bother by screwing up something as it would only involve the separated branch not the master one. One of the benefits of making changes directly in master branch is that it can be done very fast as we do not have to always do the merges, but there is a risk of more conflicts to happen.
+
